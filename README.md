@@ -28,7 +28,7 @@ The power subsystem fulfills the following requirements:
 | TP4056         | Li-ion charger (w/ protection)    |
 | DRV8833        | Dual H-bridge motor drivers       |
 | TPS22929D      | Load switches for aux peripherals |
-| INA219 *(opt)* | Current sensing (I²C telemetry)   |
+| INA219         | Current sensing (I²C telemetry)   |
 
 #### Board Previews
 
